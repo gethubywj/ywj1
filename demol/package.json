@@ -1,0 +1,30 @@
+{
+  "name": "demol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "build" : "webpack --config=config/webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gethubywj/ywj1.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "kang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gethubywj/ywj1/issues"
+  },
+  "homepage": "https://github.com/gethubywj/ywj1#readme",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+    
+  },
+  "dependencies": {
+   
+  }
+}
